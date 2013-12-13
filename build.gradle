@@ -35,7 +35,7 @@ configure(subprojects) {
     apply plugin: 'checkstyle'
     apply plugin: 'findbugs'
 
-    group = 'org.mongodb.morphia'
+    group = 'com.antwerkz.morphia'
     version = '0.106-SNAPSHOT'
 
     sourceCompatibility = '1.5'
