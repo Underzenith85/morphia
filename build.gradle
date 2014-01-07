@@ -39,7 +39,7 @@ configure(subprojects) {
     apply plugin: 'findbugs'
 
     group = 'com.antwerkz.morphia'
-    version = '0.106-SNAPSHOT'
+    version = '0.106'
 
     sourceCompatibility = '1.5'
     targetCompatibility = '1.5'
